@@ -2918,7 +2918,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 46.99 0)
 			(effects
 				(font
@@ -3004,7 +3004,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 299.72 78.74 0)
 			(effects
 				(font
@@ -3074,7 +3074,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 182.88 67.31 0)
 			(effects
 				(font
@@ -3162,7 +3162,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 252.73 128.27 0)
 			(effects
 				(font
@@ -3250,7 +3250,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 127 128.27 0)
 			(effects
 				(font
@@ -3336,7 +3336,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.5U"
 			(at 285.75 58.42 0)
 			(effects
 				(font
@@ -3406,7 +3406,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 224.79 107.95 0)
 			(effects
 				(font
@@ -3494,7 +3494,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 107.95 0)
 			(effects
 				(font
@@ -3580,7 +3580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 132.08 78.74 0)
 			(effects
 				(font
@@ -3648,7 +3648,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 173.99 99.06 0)
 			(effects
 				(font
@@ -3716,7 +3716,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.75U"
 			(at 271.78 99.06 0)
 			(effects
 				(font
@@ -3786,7 +3786,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 196.85 67.31 0)
 			(effects
 				(font
@@ -3872,7 +3872,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 118.11 99.06 0)
 			(effects
 				(font
@@ -3942,7 +3942,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 196.85 107.95 0)
 			(effects
 				(font
@@ -4028,7 +4028,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-2.25U"
 			(at 285.75 78.74 0)
 			(effects
 				(font
@@ -4096,7 +4096,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 132.08 58.42 0)
 			(effects
 				(font
@@ -4166,7 +4166,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 280.67 67.31 0)
 			(effects
 				(font
@@ -4252,7 +4252,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 160.02 99.06 0)
 			(effects
 				(font
@@ -4320,7 +4320,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 132.08 99.06 0)
 			(effects
 				(font
@@ -4388,7 +4388,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 187.96 78.74 0)
 			(effects
 				(font
@@ -4458,7 +4458,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 182.88 46.99 0)
 			(effects
 				(font
@@ -4546,7 +4546,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 87.63 0)
 			(effects
 				(font
@@ -4634,7 +4634,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 46.99 0)
 			(effects
 				(font
@@ -4722,7 +4722,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 168.91 46.99 0)
 			(effects
 				(font
@@ -4810,7 +4810,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 87.63 0)
 			(effects
 				(font
@@ -4896,7 +4896,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 118.11 78.74 0)
 			(effects
 				(font
@@ -4964,7 +4964,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 160.02 38.1 0)
 			(effects
 				(font
@@ -5032,7 +5032,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.25U"
 			(at 243.84 119.38 0)
 			(effects
 				(font
@@ -5102,7 +5102,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 107.95 0)
 			(effects
 				(font
@@ -5188,7 +5188,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 271.78 58.42 0)
 			(effects
 				(font
@@ -5256,7 +5256,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 299.72 119.38 0)
 			(effects
 				(font
@@ -5326,7 +5326,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 252.73 67.31 0)
 			(effects
 				(font
@@ -5412,7 +5412,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 271.78 38.1 0)
 			(effects
 				(font
@@ -5480,7 +5480,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 299.72 99.06 0)
 			(effects
 				(font
@@ -5548,7 +5548,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 229.87 38.1 0)
 			(effects
 				(font
@@ -5616,7 +5616,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 201.93 99.06 0)
 			(effects
 				(font
@@ -5684,7 +5684,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.75U"
 			(at 104.14 78.74 0)
 			(effects
 				(font
@@ -5752,7 +5752,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 146.05 99.06 0)
 			(effects
 				(font
@@ -5820,7 +5820,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 229.87 99.06 0)
 			(effects
 				(font
@@ -5888,7 +5888,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.25U"
 			(at 118.11 119.38 0)
 			(effects
 				(font
@@ -5958,7 +5958,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 127 107.95 0)
 			(effects
 				(font
@@ -6046,7 +6046,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 196.85 87.63 0)
 			(effects
 				(font
@@ -6134,7 +6134,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 127 67.31 0)
 			(effects
 				(font
@@ -6222,7 +6222,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 67.31 0)
 			(effects
 				(font
@@ -6310,7 +6310,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 87.63 0)
 			(effects
 				(font
@@ -6396,7 +6396,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 187.96 99.06 0)
 			(effects
 				(font
@@ -6466,7 +6466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 67.31 0)
 			(effects
 				(font
@@ -6552,7 +6552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.25U"
 			(at 132.08 119.38 0)
 			(effects
 				(font
@@ -6622,7 +6622,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 127 46.99 0)
 			(effects
 				(font
@@ -6708,7 +6708,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 118.11 38.1 0)
 			(effects
 				(font
@@ -6776,7 +6776,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 104.14 38.1 0)
 			(effects
 				(font
@@ -6846,7 +6846,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 280.67 128.27 0)
 			(effects
 				(font
@@ -6932,7 +6932,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 146.05 38.1 0)
 			(effects
 				(font
@@ -7002,7 +7002,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 182.88 107.95 0)
 			(effects
 				(font
@@ -7088,7 +7088,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 146.05 78.74 0)
 			(effects
 				(font
@@ -7158,7 +7158,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 87.63 0)
 			(effects
 				(font
@@ -7246,7 +7246,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 252.73 46.99 0)
 			(effects
 				(font
@@ -7332,7 +7332,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 173.99 38.1 0)
 			(effects
 				(font
@@ -7402,7 +7402,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 294.64 87.63 0)
 			(effects
 				(font
@@ -7490,7 +7490,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 128.27 0)
 			(effects
 				(font
@@ -7576,7 +7576,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 271.78 119.38 0)
 			(effects
 				(font
@@ -7644,7 +7644,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 146.05 58.42 0)
 			(effects
 				(font
@@ -7714,7 +7714,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 107.95 0)
 			(effects
 				(font
@@ -7800,7 +7800,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 229.87 78.74 0)
 			(effects
 				(font
@@ -7868,7 +7868,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 215.9 78.74 0)
 			(effects
 				(font
@@ -7938,7 +7938,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 224.79 46.99 0)
 			(effects
 				(font
@@ -8026,7 +8026,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 87.63 0)
 			(effects
 				(font
@@ -8114,7 +8114,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 67.31 0)
 			(effects
 				(font
@@ -8202,7 +8202,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 280.67 107.95 0)
 			(effects
 				(font
@@ -8290,7 +8290,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 168.91 87.63 0)
 			(effects
 				(font
@@ -8378,7 +8378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 294.64 128.27 0)
 			(effects
 				(font
@@ -8466,7 +8466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 196.85 46.99 0)
 			(effects
 				(font
@@ -8552,7 +8552,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 243.84 38.1 0)
 			(effects
 				(font
@@ -8620,7 +8620,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 173.99 78.74 0)
 			(effects
 				(font
@@ -8690,7 +8690,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 46.99 0)
 			(effects
 				(font
@@ -8776,7 +8776,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.25U"
 			(at 257.81 119.38 0)
 			(effects
 				(font
@@ -8846,7 +8846,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 67.31 0)
 			(effects
 				(font
@@ -8934,7 +8934,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 224.79 87.63 0)
 			(effects
 				(font
@@ -9020,7 +9020,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 243.84 99.06 0)
 			(effects
 				(font
@@ -9090,7 +9090,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 168.91 107.95 0)
 			(effects
 				(font
@@ -9178,7 +9178,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 154.94 46.99 0)
 			(effects
 				(font
@@ -9266,7 +9266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 294.64 46.99 0)
 			(effects
 				(font
@@ -9354,7 +9354,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 252.73 87.63 0)
 			(effects
 				(font
@@ -9440,7 +9440,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 173.99 58.42 0)
 			(effects
 				(font
@@ -9508,7 +9508,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 243.84 78.74 0)
 			(effects
 				(font
@@ -9576,7 +9576,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-6.25U"
 			(at 187.96 119.38 0)
 			(effects
 				(font
@@ -9646,7 +9646,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 99.06 107.95 0)
 			(effects
 				(font
@@ -9732,7 +9732,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 160.02 78.74 0)
 			(effects
 				(font
@@ -9802,7 +9802,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 280.67 87.63 0)
 			(effects
 				(font
@@ -9890,7 +9890,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 46.99 0)
 			(effects
 				(font
@@ -9976,7 +9976,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 187.96 58.42 0)
 			(effects
 				(font
@@ -10044,7 +10044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 299.72 38.1 0)
 			(effects
 				(font
@@ -10114,7 +10114,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 294.64 107.95 0)
 			(effects
 				(font
@@ -10202,7 +10202,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 154.94 67.31 0)
 			(effects
 				(font
@@ -10290,7 +10290,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 107.95 0)
 			(effects
 				(font
@@ -10378,7 +10378,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 182.88 87.63 0)
 			(effects
 				(font
@@ -10464,7 +10464,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 215.9 58.42 0)
 			(effects
 				(font
@@ -10532,7 +10532,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.5U"
 			(at 104.14 58.42 0)
 			(effects
 				(font
@@ -10602,7 +10602,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 67.31 0)
 			(effects
 				(font
@@ -10688,7 +10688,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 201.93 58.42 0)
 			(effects
 				(font
@@ -10756,7 +10756,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 132.08 38.1 0)
 			(effects
 				(font
@@ -10826,7 +10826,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 294.64 67.31 0)
 			(effects
 				(font
@@ -10912,7 +10912,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 215.9 38.1 0)
 			(effects
 				(font
@@ -10980,7 +10980,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 285.75 99.06 0)
 			(effects
 				(font
@@ -11050,7 +11050,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 154.94 87.63 0)
 			(effects
 				(font
@@ -11138,7 +11138,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 46.99 0)
 			(effects
 				(font
@@ -11226,7 +11226,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 168.91 67.31 0)
 			(effects
 				(font
@@ -11312,7 +11312,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-2.25U"
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -11380,7 +11380,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 257.81 58.42 0)
 			(effects
 				(font
@@ -11450,7 +11450,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 128.27 0)
 			(effects
 				(font
@@ -11538,7 +11538,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 113.03 128.27 0)
 			(effects
 				(font
@@ -11624,7 +11624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1.25U"
 			(at 104.14 119.38 0)
 			(effects
 				(font
@@ -11694,7 +11694,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 238.76 128.27 0)
 			(effects
 				(font
@@ -11780,7 +11780,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 201.93 78.74 0)
 			(effects
 				(font
@@ -11848,7 +11848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 118.11 58.42 0)
 			(effects
 				(font
@@ -11916,7 +11916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 257.81 78.74 0)
 			(effects
 				(font
@@ -11984,7 +11984,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 160.02 58.42 0)
 			(effects
 				(font
@@ -12054,7 +12054,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 280.67 46.99 0)
 			(effects
 				(font
@@ -12140,7 +12140,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 285.75 119.38 0)
 			(effects
 				(font
@@ -12210,7 +12210,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 224.79 67.31 0)
 			(effects
 				(font
@@ -12296,7 +12296,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 299.72 58.42 0)
 			(effects
 				(font
@@ -12366,7 +12366,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 140.97 46.99 0)
 			(effects
 				(font
@@ -12454,7 +12454,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 67.31 0)
 			(effects
 				(font
@@ -12542,7 +12542,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 182.88 128.27 0)
 			(effects
 				(font
@@ -12628,7 +12628,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-2U"
 			(at 285.75 38.1 0)
 			(effects
 				(font
@@ -12696,7 +12696,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 215.9 99.06 0)
 			(effects
 				(font
@@ -12766,7 +12766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 127 87.63 0)
 			(effects
 				(font
@@ -12852,7 +12852,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 201.93 38.1 0)
 			(effects
 				(font
@@ -12920,7 +12920,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 187.96 38.1 0)
 			(effects
 				(font
@@ -12990,7 +12990,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 154.94 107.95 0)
 			(effects
 				(font
@@ -13076,7 +13076,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 229.87 58.42 0)
 			(effects
 				(font
@@ -13144,7 +13144,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 243.84 58.42 0)
 			(effects
 				(font
@@ -13214,7 +13214,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 210.82 107.95 0)
 			(effects
 				(font
@@ -13300,7 +13300,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Alps_MX_Stabilizers:MX-Alps-Hybrid-1U"
 			(at 257.81 38.1 0)
 			(effects
 				(font
